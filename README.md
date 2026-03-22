@@ -15,7 +15,7 @@
 
  **Projects**
  
- **3. E-commerce App UI/UX Design (Design Project)**
+ **1. E-commerce App UI/UX Design (Design Project)**
  **Role:** UI/UX Designer
  **Tools Used:** Figma, Canva
  **Problem:** “Designed a mobile app for users to easily browse and buy products.”
@@ -32,7 +32,8 @@
 
   * Clickable prototype link (Figma share link)
            https://www.figma.com/proto/Q9q59WyhC9T4RVbVDl5zDb?node-id=0-1&t=NlE9iBzmgfmRsgMs-6
-
+**2. “Task Management Web Application for productivity and organization”**
+  **Objective:**   To create a simple and efficient To-Do List web app for managing daily tasks with a modern UI and data persistence.
 
 ### **Contact Me**
 
