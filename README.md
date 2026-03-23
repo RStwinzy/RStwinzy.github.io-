@@ -35,6 +35,10 @@
 **2. “Task Management Web Application for productivity and organization”**
   **Objective:**   To create a simple and efficient To-Do List web app for managing daily tasks with a modern UI and data persistence.
 
+
+    <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d0481fc3-b0b7-4f14-8691-fba84d14b0c8" />
+
+
 ### **Contact Me**
 
 ```
